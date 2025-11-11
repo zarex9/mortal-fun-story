@@ -1,5 +1,4 @@
-<<<<<<< HEAD
----
+
 
 # AI Crypto Story 🎙️✨
 
